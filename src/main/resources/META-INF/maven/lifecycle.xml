@@ -1,0 +1,75 @@
+<lifecycles xmlns="http://maven.apache.org/LIFECYCLE/1.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+			xsi:schemaLocation="http://maven.apache.org/LIFECYCLE/1.0.0 http://maven.apache.org/xsd/lifecycle-1.0.0.xsd">
+	<lifecycle>
+<!--
+		<id>test-levels</id>
+		<phases>
+			<phase>
+				<id>initialize</id>
+			</phase>
+			<phase>
+				<id>process-resources</id>
+			</phase>
+			<phase>
+				<id>compile</id>
+			</phase>
+			<phase>
+				<id>process-test-resources</id>
+			</phase>
+			<phase>
+				<id>test-compile</id>
+			</phase>
+			<phase>
+				<id>test</id>
+			</phase>
+			<phase>
+				<id>prepare-package</id>
+			</phase>
+			<phase>
+				<id>package</id>
+			</phase>
+
+			<phase>
+				<id>pre-integration-test</id>
+			</phase>
+			<phase>
+				<id>integration-test</id>
+			</phase>
+			<phase>
+				<id>post-integration-test</id>
+			</phase>
+
+			<phase>
+				<id>pre-application-test</id>
+			</phase>
+			<phase>
+				<id>application-test</id>
+			</phase>
+			<phase>
+				<id>post-application-test</id>
+			</phase>
+
+			<phase>
+				<id>pre-system-test</id>
+			</phase>
+			<phase>
+				<id>system-test</id>
+			</phase>
+			<phase>
+				<id>post-system-test</id>
+			</phase>
+
+			<phase>
+				<id>finalize-tests</id>
+			</phase>
+
+			<phase>
+				<id>install</id>
+			</phase>
+			<phase>
+				<id>deploy</id>
+			</phase>
+		</phases>
+-->
+	</lifecycle>
+</lifecycles>
